@@ -3,4 +3,5 @@
 Add your name here:
 
 - Gregor
+- Maria
 - Marius
